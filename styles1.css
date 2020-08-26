@@ -1,0 +1,26 @@
+*{
+    text-align: center;
+    
+}
+.pad{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+#banner, #footer{
+    background: brown;
+    color: white;
+}
+#left{
+    background: orange;
+    color: black;
+}
+#topmenu{
+    background:rosybrown;
+    color: black;
+}
+.impar{
+    background: pink;
+}
+.par{
+    background:cyan;
+}
